@@ -1,4 +1,4 @@
-## Hi there 👋
+## (こんにちは) Kon'nichiwa 👋
 
 - 📫 How to reach me: ashmmky@gmail.com
 - - - -
