@@ -29,10 +29,10 @@
 - 🤔 I’m looking for help with: ***Same***
 - - - -
 
-- ⚡ Fun fact: I am a Intense Gamer 
-                                    [X] PS4 (PS5 - are u kiiding me 😄)
-                                    [X] PC
-                                    [X] Mobile (Sometimes when Laptop Battery is down OR Electricity Cutoff)
+- ⚡ Fun fact: I am a Intense Gamer:
+[X] PS4 (PS5 - are u kiiding me 😄)
+[X] PC
+[X] Mobile (Sometimes when Laptop Battery is down OR Electricity Cutoff)
 - - - -
 <!--
 **Sandeep-BlackHat/Sandeep-BlackHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
