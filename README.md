@@ -2,8 +2,8 @@
 
 - 📫 How to reach me: ashmmky@gmail.com
 
-- 💬 Ask me about:  
-                  - [x] Cyber Security
+- 💬 Ask me about:
+- [x] Cyber Security
                   - [x] Infomation Security
                   - [x] Kali Linux and Tools
                   - [x] Big Data
