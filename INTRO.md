@@ -9,7 +9,7 @@
 - [x] Kali Linux and Tools
 - [x] Big Data
 - [x] Wordpress Security
-- [x] Public Spwaking
+- [x] Public Speaking
 - [x] Ethical Hacking
 - - - -
                   
