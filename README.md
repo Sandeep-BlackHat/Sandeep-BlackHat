@@ -23,9 +23,6 @@
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
 - - - -
 
-- 🤔 I’m looking for help with: ***Same***
-- - - -
-
 - ⚡ Fun fact: I am a Intense Gamer:
 - [X] PS4 (PS5 - are u kiiding me 😄)
 - [X] PC
