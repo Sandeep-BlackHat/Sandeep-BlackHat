@@ -12,9 +12,6 @@
 - [x] Public Speaking
 - [x] Ethical Hacking
 - - - -
-                  
-- 🔭 I’m currently working on: **InfoSec and Kali Tools**
-- - - -
 
 - 🌱 I’m currently learning:
 - [x] Kali Linux and Tools
