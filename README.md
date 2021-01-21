@@ -25,13 +25,14 @@
 - 🌱 I’m currently learning:
 - [x] Kali Linux and Tools
 - [x] Python Coding
-- [x] **Linux Commands**
-- [x] C++ and C Programming
 
 
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='right'/>
- 
- 
+
+
+- [x] **Linux Commands**
+- [x] C++ and C Programming
+
 - - - -
 
 <!--
