@@ -45,17 +45,6 @@
  </div>
 
 
-<p align="center">
-    <br>
-    <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
-    <br>
-    <br>
-    <b>High Resolution Programming Languages Logos</b>
-    <br>
-    <br>
-    <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
-</p>
-
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
 - - - -
