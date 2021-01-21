@@ -19,7 +19,7 @@
 - - - -
 
 
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='right'/>
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='left'/>
 
 
 - 🌱 I’m currently learning:
