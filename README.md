@@ -20,7 +20,7 @@
 
 
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
-<p align='left'>
+<p align='center'>
 - 🌱 I’m currently learning: <br>
 - [x] Kali Linux and Tools <br>
 - [x] Python Coding <br>
