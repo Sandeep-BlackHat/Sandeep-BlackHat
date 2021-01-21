@@ -20,7 +20,7 @@
  - [x] C++ and C Programming
 - - - -
 
-!.[Stats](https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40)
+< img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40')
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
 - - - -
