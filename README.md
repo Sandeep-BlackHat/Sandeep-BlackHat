@@ -33,7 +33,7 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="20" height="20" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" width="20" height="20" /></code>&nbsp;
+  <code><img src="" width="20" height="20" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" width="20" height="20" /></code>&nbsp;
   <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></code>&nbsp;
   <code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></code>&nbsp;
@@ -43,6 +43,27 @@
   <code><img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="google-cloud" /></code>&nbsp;
  </p>
  </div>
+
+
+<p align="center">
+    <br>
+    <img src="src/programming-languages.gif" alt="List of programming languages logos">
+    <br>
+    <br>
+    <br>
+    <br>
+    <!-- 
+        Plese don't fix the world 'porgramming' it is not a typo.
+        Well it is a typo but a working typo :) 
+    -->
+    <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
+    <br>
+    <br>
+    <b>High Resolution Programming Languages Logos</b>
+    <br>
+    <br>
+    <a href="https://languages.abranhe.com"><code>languages.abranhe.com</code></a>
+</p>
 
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
