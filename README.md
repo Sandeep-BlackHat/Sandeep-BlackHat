@@ -1,7 +1,6 @@
 ## (こんにちは) Kon'nichiwa 👋
 
 - 📫 How to reach me: ashmmky@gmail.com
-- - - -
 
 
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='right'>
