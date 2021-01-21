@@ -47,15 +47,6 @@
 
 <p align="center">
     <br>
-    <img src="src/programming-languages.gif" alt="List of programming languages logos">
-    <br>
-    <br>
-    <br>
-    <br>
-    <!-- 
-        Plese don't fix the world 'porgramming' it is not a typo.
-        Well it is a typo but a working typo :) 
-    -->
     <img src="https://cdn.abranhe.com/projects/porgramming-languages-logos/logo.svg" alt="programming gif">
     <br>
     <br>
