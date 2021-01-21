@@ -20,13 +20,6 @@
 
 
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
-
-- 🌱 I’m currently learning:
-- [x] Kali Linux and Tools
-- [x] Python Coding
-- [x] **Linux Commands**
-- [x] C++ and C Programming
-
 <div>
 <p align="right">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;
@@ -44,6 +37,13 @@
   <code><img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="google-cloud" /></code>&nbsp;
  </p>
  </div>
+- 🌱 I’m currently learning:
+- [x] Kali Linux and Tools
+- [x] Python Coding
+- [x] **Linux Commands**
+- [x] C++ and C Programming
+
+
  
 - - - -
 
