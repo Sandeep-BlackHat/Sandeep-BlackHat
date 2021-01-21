@@ -20,14 +20,14 @@
 
 
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
-
-<p align='right'>
+<p align='left'>
 - 🌱 I’m currently learning: <br>
 - [x] Kali Linux and Tools <br>
 - [x] Python Coding <br>
 - [x] **Linux Commands** <br>
 - [x] C++ and C Programming <br>
 </p>
+
 - - - -
 
 <!--
