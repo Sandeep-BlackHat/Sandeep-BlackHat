@@ -41,6 +41,7 @@
  </p>
  </div>
 
+<img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark)](https://github.com/farazul/github-profile-trophy' />
 
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
