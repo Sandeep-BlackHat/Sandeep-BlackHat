@@ -1,9 +1,8 @@
 <img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Veni,%20Vidi,%20Vici&fontSize=100&animation=blinking&fontColor=00FF00'/>
 
-
- </div>
-<code><img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark'/></code>&nbsp;
-
+<pre>
+      <code><img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark'/></code>&nbsp;
+</pre>
 
 ## (こんにちは) Kon'nichiwa 👋
 
@@ -45,6 +44,8 @@
   <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
  </p>
+ </div>
+
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
 - - - -
