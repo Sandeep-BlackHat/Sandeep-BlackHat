@@ -43,7 +43,7 @@
  
 <br/>
 <br/>
-<code><img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark)](https://github.com/farazul/github-profile-trophy'/></code>&nbsp;
+<code><img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark'/></code>&nbsp;
 
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
