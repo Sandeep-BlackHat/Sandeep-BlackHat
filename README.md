@@ -13,7 +13,7 @@
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
  </p>
  </div>
-
+<code><img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark'/></code>&nbsp;
 ## (こんにちは) Kon'nichiwa 👋
 
 - 📫 How to reach me: ashmmky@gmail.com
