@@ -1,17 +1,6 @@
 <img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Veni,%20Vidi,%20Vici&fontSize=100&animation=blinking&fontColor=00FF00'/>
 
-<div>
-<p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="20" height="20" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
-  <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
- </p>
+
  </div>
 <code><img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark'/></code>&nbsp;
 
@@ -44,6 +33,18 @@
 
 - - - -
 
+<div>
+<p align="left">
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="20" height="20" /></code>&nbsp;
+  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_48x48.png" alt="html" width="20" height="20" /></code>&nbsp;
+  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="20" height="20" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
+  <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
+ </p>
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
 - - - -
