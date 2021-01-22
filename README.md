@@ -40,19 +40,12 @@
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
  </p>
  </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark)](https://github.com/farazul/github-profile-trophy' />
 
