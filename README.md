@@ -1,4 +1,4 @@
-<img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Sandeep-BlackHat&fontSize=90&animation=twinkling&fontColor=00FF00'/>
+<img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Sandeep-BlackHat&fontSize=90&animation=blinking&fontColor=00FF00'/>
 
 
 
