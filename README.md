@@ -44,6 +44,7 @@
   <code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></code>&nbsp;
   <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
+  <code><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fdatadriveninvestor%2Fmaking-your-code-editor-feel-like-home-customizing-vs-code-b858d4938cb&psig=AOvVaw0xq-A0mcABiRIYKYLWQ8I-&ust=1612418763506000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiZm5WGze4CFQAAAAAdAAAAABAD" alt="VS-Code" /></code>&nbsp;
  </p>
  </div>
 
