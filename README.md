@@ -2,7 +2,7 @@
 
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='right'/>
 
-<img src ='https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' align='right'/>
+
 
 ## (こんにちは) Kon'nichiwa 👋
 
