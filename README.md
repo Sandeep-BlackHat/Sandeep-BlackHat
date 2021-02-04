@@ -2,18 +2,15 @@
 
 <pre>
             <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark'/>
+            <img src ='https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' />
 </pre>
 
 ## (こんにちは) Kon'nichiwa 👋
 
 - 📫 How to reach me: ashmmky@gmail.com
-<p>
+
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='right'>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='left'/>
-<br>
-<br>
-<img src ='https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' />
-</p>
             
             
 <div>
