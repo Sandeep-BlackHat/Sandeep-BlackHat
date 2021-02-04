@@ -3,8 +3,7 @@
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
 
 ## Contributions, Languages and Frameworks
-            
-<code><img height="30" src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-         language-png-820_819.jpg"></code>
+
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
