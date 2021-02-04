@@ -9,22 +9,8 @@
 - 📫 How to reach me: ashmmky@gmail.com
 
 
-
-- - - -
-- 💬 Ask me about:                                        - 🌱 I’m currently learning:
-- [x] Cyber Security                                       - [x] Kali Linux and Tools
-- [x] Infomation Security                                  - [x] Python Coding
-- [x] Kali Linux and Tools                                 - [x] **Linux Commands**
-- [x] Big Data                                             - [x] C++ and C Programming 
-- [x] Wordpress Security
-- [x] Public Speaking
-- [x] Ethical Hacking
-- - - -
-
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='right'>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='right'/>
-
-- - - -
 
 <div>
 <p align="left">
