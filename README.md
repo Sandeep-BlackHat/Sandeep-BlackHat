@@ -2,11 +2,7 @@
 
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
 
-
-
-## (こんにちは) Kon'nichiwa 👋
-
-- 📫 How to reach me: ashmmky@gmail.com
+## Contributions, Languages and Frameworks
 
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='right'>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='left'/>
@@ -26,6 +22,8 @@
   <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
  </p>
  </div>
+
+- 📫 How to reach me: ashmmky@gmail.com
 
 <!--
 - 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
