@@ -1,5 +1,7 @@
 <img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Veni,%20Vidi,%20Vici&fontSize=100&animation=blinking&fontColor=00FF00'/>
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/Sandeep-BlackHat)
+
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
 
 ## Contributions, Languages and Frameworks
