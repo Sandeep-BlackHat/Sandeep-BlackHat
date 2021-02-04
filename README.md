@@ -3,6 +3,11 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
+# Contributions, Languages and Frameworks
+
+<img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
+<img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='right'>
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='left'/>
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="python" width="20" height="20" /></code>&nbsp;
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -18,13 +23,6 @@
 <code><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/></code>&nbsp;
 <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
-
-# Contributions, Languages and Frameworks
-
-<img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
-<img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='right'>
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='left'/>
-
 - 📫 How to reach me: ashmmky@gmail.com
 
 <!--
