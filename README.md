@@ -6,7 +6,7 @@
 # Contributions, Languages and Frameworks
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='left'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='left'>
-<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='left'/>
+<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='right'/>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
