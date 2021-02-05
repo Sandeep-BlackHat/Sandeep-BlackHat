@@ -9,7 +9,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 <p>
-<img align='right' src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif" align = 'center' />
+<img src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif" align = 'center' />
 </p>
 
 
