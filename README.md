@@ -9,7 +9,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 <p>
-<img src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif" height ='500' width = '1080' align = 'center' />
+<img src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif" height ='250' width = '1080' align = 'center' />
 </p>
 
 ### Hi I'm Shubham <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
