@@ -8,7 +8,8 @@
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='center'>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' align='right'/>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
-Note: These are just GitHub stats, it doesn't mean I mastered in they frameworks, languages. It shows that my contibuting my time in them and learning it. **Basically I am ScriptKiddie** !!!
+Note: These are just GitHub stats, it doesn't mean I mastered in they frameworks, languages. It shows that my contibuting my time in them and learning it. 
+***Basically I am ScriptKiddie***
 
 # Languages and Frameworks
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
