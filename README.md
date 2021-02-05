@@ -12,12 +12,13 @@
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='center'>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' align='right'/>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
 <p>Note: These are just GitHub stats, it doesn't mean I mastered in they frameworks, languages. It shows that my contibuting my time in them and learning it.
 <strong>Basically I am ScriptKiddie!</strong></p>
 
-# Languages and Frameworks
+# Things I U5E
 
 <table>
   <tr>
@@ -34,7 +35,7 @@
 
 <table>
   <tr>
-    <td>OS I Use!</td>
+    <td>Operating Systems</td>
     <td><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></td>
     <td><img height="30" src="https://github.com/Sandeep-BlackHat/sandeep-blackhat.github.io/blob/main/assets/img/testimonials/pngegg.png" /></td>
     <td><img height="30" src="https://github.com/Sandeep-BlackHat/sandeep-blackhat.github.io/blob/main/assets/img/testimonials/Parrot_Logo.png" /></td>
