@@ -12,22 +12,19 @@
 <img src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif" height ='250' width = '1080' align = 'center' />
 </p>
 
-### Hi I'm Shubham <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-Engineering student with ability to review plans,write reports,research solutions and implement company procedures. Willingness to learn,ability to follow instructions and work cooperatively within team environments.🎀
-
-[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)
-[![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamgiri2000office@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
+## Kon'nichiwa, Sandeep desu
+<img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230">
  
-### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
+### Pleased to meet you!
 
-- 🔭 I’m currently working on <b>GOOGLE CLOUD</b>
-- 🌱 I’m currently learning <b>Data Structures,JS,CSS</b>
-- 👯 I’m looking to collaborate on <b>Projects on Python</b>
-- 🤔 I’m looking for help with <b>JavaScript</b>
-- 💬 Ask me about <b>Anything</b>
-- 😄 Pronouns:<b>He/him</b>
-- ⚡ Fun fact: <b>I ❤️ 😻s</b>
+- 💬 Ask me about:
+- [x] Cyber Security                                      
+- [x] Infomation Security                                  
+- [x] Kali Linux and Tools                                 
+- [x] Big Data                                              
+- [x] Wordpress Security
+- [x] Public Speaking
+- [x] Ethical Hacking
 
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
