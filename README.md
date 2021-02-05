@@ -17,10 +17,8 @@
 </p>
 
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230">
- 
-### Pleased to meet you!
 
-- 💬 Ask me about:
+# 💬 Ask me about:
 - [x] Cyber Security                                      
 - [x] Infomation Security                                  
 - [x] Kali Linux and Tools                                 
