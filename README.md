@@ -5,9 +5,9 @@
 
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
+<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' align='right'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='center'>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
-<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' align='right'/>
 
 # Languages and Frameworks
 <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="cplusplus" width="20" height="20" /></code>&nbsp;
