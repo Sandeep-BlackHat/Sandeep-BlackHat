@@ -9,9 +9,10 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
+<img align='right' src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif" align = 'center' />
+
 # Contributions
 <img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=onedark' align='center'/>
-<img align='right' src="https://media.giphy.com/media/26u4iAWHVEtq3KLao/giphy.gif">
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=tokyonight&count_private=true&line_height=40' align='center'>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat' align='right'/>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=tokyonight&hide_langs_below=4' align='center'/>
