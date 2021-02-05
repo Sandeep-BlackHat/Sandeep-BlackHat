@@ -8,11 +8,14 @@
 <img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Veni,%20Vidi,%20Vici&fontSize=100&animation=blinking&fontColor=00FF00'/>
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
+
+## Kon'nichiwa, Sandeep desu
+
 <p>
 <img src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif" height ='250' align = 'center' />
 </p>
 
-## Kon'nichiwa, Sandeep desu
 <img align='right' src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif" width="230">
  
 ### Pleased to meet you!
