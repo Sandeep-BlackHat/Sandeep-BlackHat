@@ -12,7 +12,7 @@
 
 ## Kon'nichiwa, Sandeep desu
 
-<p>
+<p style="font-size:30px">
 <img src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif" height ='250' align = 'left' />
 <br>  
 <br>
