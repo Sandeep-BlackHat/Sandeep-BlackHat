@@ -73,8 +73,8 @@
 <code><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /></code>&nbsp;
 <code><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" /></code>&nbsp;
 
-# 📫 How to reach me: ashmmky@gmail.com
-# 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
+### 📫 How to reach me: ashmmky@gmail.com
+### 👯 I’m looking to collaborate on: **Any of the above mentioned fields Projetcs and Work!**
 
 <!--
 - - - -
