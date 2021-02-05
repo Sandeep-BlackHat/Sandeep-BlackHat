@@ -10,7 +10,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 
-## Kon'nichiwa, Sandeep desu
+# Kon'nichiwa, Sandeep desu
 
 <p style="font-size:30px">
 <img src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif" height ='250' align = 'left' />
