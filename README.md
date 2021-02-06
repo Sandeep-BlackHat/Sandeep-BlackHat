@@ -37,7 +37,7 @@
 - [x] Ethical Hacking
 
 # Contributions
-<img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=dark' align='center'/>
+<img src = 'https://github-profile-trophy.vercel.app/?username=Sandeep-BlackHat&theme=tokyonight' align='center'/>
 <img src = 'https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-BlackHat&theme=chartreuse-dark' align='center'/>
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-BlackHat&theme=chartreuse-dark&hide_langs_below=4' align='left'/>
 <img src = 'https://github-readme-stats.vercel.app/api?username=Sandeep-BlackHat&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=40' align='center'>
