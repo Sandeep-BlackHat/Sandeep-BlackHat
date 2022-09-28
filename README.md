@@ -14,7 +14,7 @@
 
 
 <img src="https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif" height ='250' width='250' align = 'left' />
-<p style="font-size:30px">
+<p style="font-size:30px, left-margin : 30px">
 <br>  
 <br>
 <strong>A budding software and I believe in hard work and here I am driven <br> towards earning your trust, taking care of encryption, authentication for improving websites and provide better security, also a web developer, coder and BasketBall Lover! I always look for oppurtinties to prove my self, and to light up the room and people around me. And after all this I am a Proud Indian and Son on Brave Indian Amry Person.</strong>
